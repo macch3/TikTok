@@ -10,10 +10,10 @@ TikTok has emerged as a cultural phenomenon, capturing the attention of millions
 The dataset for this analysis includes various engagement metrics and author statuses for TikTok videos and can be derived from a publicly available source that includes details about the titles available on TikTok from Kaggle Website.
 
 ## Tools Used
-- **Python**: The primary programming language for data processing and analysis.
-- **Pandas**: For data manipulation and analysis.
-- **Matplotlib/Seaborn**: For creating visualizations.
-- **Jupyter Notebook**: The development environment for running Python code and presenting the analysis.
+- **Python**: Language
+- **Pandas**: Library
+- **Matplotlib and Seaborn**: Libraries
+- **Jupyter Notebook**: The environment for running Python code and presenting the analysis.
 
 ## Key Findings
 - A nearly balanced distribution of 'claim' and 'opinion' videos, suggesting a varied content strategy on the platform.
