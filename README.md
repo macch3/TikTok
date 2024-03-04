@@ -11,8 +11,7 @@ The dataset for this analysis includes various engagement metrics and author sta
 
 ## Tools Used
 - **Python**: Language
-- **Pandas**: Library
-- **Matplotlib and Seaborn**: Libraries
+- **Pandas, Matplotlib and Seaborn**: Libraries
 - **Jupyter Notebook**: The environment for running Python code and presenting the analysis.
 
 ## Key Findings
